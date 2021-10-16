@@ -15,6 +15,7 @@ namespace Classic_Snakes_Games
     {
         private List<Circle> Snake = new List<Circle>();//circle formunda snake
         private Circle food = new Circle();
+        //Circle place
 
         int maxWidth;
         int maxHeight;
